@@ -39,7 +39,7 @@ h2 {
 }
 
 ul {
-    list-style: url("маркер.png");
+    list-style: "marker.svg";
 }
 
 li {
